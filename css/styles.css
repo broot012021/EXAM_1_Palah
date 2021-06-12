@@ -1,0 +1,288 @@
+.container{
+    width: 1770px;
+    font-family:"Josefin Sans";
+}
+
+.bhromaon_header{
+    background-image:url(../assets/images/bhromaon_safe_travel.png);
+    height: 740px;
+}
+
+.logo{
+    padding-top: 250px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.search{
+    text-align: center;
+}
+
+.search_line{
+    height: 60px;
+    width: 500px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.search_button{
+    width: 150px;
+    height: 60px;
+    background-color: #5474fd;
+    border: 0px;
+}
+
+.scroll_arrow{
+    text-align: center;
+    margin-top: 120px;
+    color: #ffffff;
+    margin-top: 120px;
+}
+
+.navigation{
+    background-color: #5474fd;
+}
+
+.nav{
+    padding-left: 330px;
+    height: 85px;
+}
+
+.nav_logo{
+    margin-top: 35px;
+    color: #ffffff;
+}
+
+.nav_button_first{
+    background-color: #5474fd;
+    border: 0px;
+    padding-top: 30px;
+    padding-left: 430px;
+    color: #ffffff;
+}
+
+.nav_button{
+    background-color: #5474fd;
+    border: 0px;
+    padding-top: 30px;
+    padding-left: 45px;
+    color: #ffffff;
+}
+
+.advantages{
+    background-image: url(../assets/images/why_choose_us.png);
+    height: 680px;
+    display: block;
+}
+
+.advantages_header{
+    padding-top: 205px;
+    margin-left: 330px;
+    color: #ffffff;
+}
+
+.advantage_article{
+    width: 540px;
+    margin-left: 330px;
+    padding-top: 60px;
+    color: #ffffff;
+}
+
+.explore_button{
+    margin-left: 330px;
+    margin-top: 50px;
+    background-color: #5474fd;
+    color: #ffffff;
+    height: 60px;
+    width: 220px;
+    border: 0px;
+}
+
+.some_icons{
+    background-color: #333333;
+    height: 330px;
+}
+
+.icon_line{
+    display: block;
+    margin-left: 490px;
+    padding-top: 45px;
+}
+
+.icon_arrow{
+    margin-left: 470px;
+}
+
+.icon_ok{
+    margin-left: 325px;
+}
+
+.icon_cool{
+    margin-left: 325px;
+}
+
+.arrow_name{
+    margin-left: 450px;
+    color: #ffffff;
+}
+
+.ok_name{
+    margin-left: 300px;
+    color: #ffffff;
+}
+
+.cool_name{
+    margin-left: 300px;
+    color: #ffffff;
+}
+
+.spain{
+    background-image: url(../assets/images/spain.png);
+    height: 700px;
+}
+
+.spain_article{
+    width: 540px;
+    height: 370px;
+    padding-top: 230px;
+    margin-left: 330px;
+    color: #ffffff;
+    background-color: #2e2929;
+    opacity: 0.9;
+}
+
+.country_name{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.place_to_enjoy{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.about_spain{
+    padding-left: 30px;
+    padding-right: 20px;
+    margin-top: 30px;
+}
+
+.spain_button{
+    margin-left: 30px;
+    margin-top: 50px;
+    height: 60px;
+    width: 220px;
+    background-color: #5474fd;
+    color: #ffffff;
+}
+
+.spain_culture{
+    background-image: url(../assets/images/calture.png);
+    height: 700px;
+}
+
+.spain_culture_article{
+    width: 540px;
+    height: 370px;
+    padding-top: 230px;
+    margin-left: 900px;
+    color: #ffffff;
+    background-color: #2e2929;
+    opacity: 0.9;
+}
+
+.country_calture{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.culture{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.about_calture{
+    padding-left: 30px;
+    padding-right: 20px;
+    margin-top: 30px;
+}
+
+.calture_button{
+    margin-left: 30px;
+    margin-top: 50px;
+    height: 60px;
+    width: 220px;
+    background-color: #5474fd;
+    color: #ffffff;
+}
+
+.tourist{
+    background-image: url(../assets/images/tourist.png);
+    height: 730px;
+}
+
+.tourist_say{
+    padding-top: 120px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.tourist_article{
+    margin-left: 330px;
+    margin-top: 100px;
+}
+
+.tourist_img{
+    float: left;
+    margin: 60px 60px 60px 0;
+}
+
+.tourist_name{
+    padding-top: 90px;
+    color: #ffffff;
+}
+
+.tourist_article{
+    padding-left: 30px;
+    margin-top: 40px;
+    width: 670px;
+    color: #ffffff;
+}
+
+.footer{
+    background-color: #232323;
+    height: 270px;
+}
+
+.footer_logo{
+    text-align: center;
+    padding-top: 120px;
+    color: #ffffff;
+}
+
+.footer_article{
+    margin-top: 20px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.social_icons{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.twiter_img{
+    margin-left: 15px;
+}
+
+.google_img{
+    margin-left: 15px;
+}
+
+.youtube_img{
+    margin-left: 15px;
+}
+
+.dribble_img{
+    margin-left: 15px;
+}
